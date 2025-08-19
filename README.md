@@ -33,7 +33,8 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 - 💻 Estou aprendendo **Java, Git e Mobile**
 - 🎯 Meu objetivo é **Aprender o basico de Desenvolvimento de Front-End**
 - 📚 Gosto de aprender sobre **Web-Design e Front-End**
-
+ 
+  "Everything happens for a reason"
 
 ## 📫 Como me encontrar
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fab.idai)  
